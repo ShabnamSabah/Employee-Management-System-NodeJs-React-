@@ -48,5 +48,5 @@ localhost:8000
    password: 12345
    ```
 
-After login Admin can add a employee and update their salary.
+After login Admin can add a employee and update the employee's salary.
 Employe can login and view his/her details.
