@@ -15,7 +15,7 @@ npm start
 ```
 
 ### To Run The Backend
-1.  Open the client folder in VSCode and run the following command in the terminal to install the packages
+1.  Open the backend folder in VSCode and run the following command in the terminal to install the packages
 ```
 npm install
 ```
